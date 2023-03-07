@@ -8,3 +8,17 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/amazon-aws-3628617-3029842.png?f=avif&w=256" alt="Aws" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  alt="GoLang" width="40"/>
 </div>
+
+## Status:
+
+`Back-end:`  Em Construção
+<br />
+`Front-end:` Aguardando o Back-end ficar pronto para começar.
+
+<br />
+
+## Autor
+
+Linkedin - [Hiago Briano](https://www.linkedin.com/in/hiago-briano/)
+
+Email - hiago.artist@hotmail.com
